@@ -97,7 +97,7 @@
            android:layout_height="wrap_content"
            android:orientation="horizontal"
            android:padding="8sp"
-           android:background="@color/naranjaclaro"
+           android:background="@color/naranjamasclaro"
            android:weightSum="2">
            <LinearLayout
                android:layout_width="match_parent"
@@ -172,7 +172,7 @@
             android:orientation="horizontal"
             android:padding="8dp"
             android:weightSum="2"
-            android:background="@color/azulclaro">
+            android:background="@color/azulmasclaro">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -244,7 +244,7 @@
              android:layout_height="wrap_content"
              android:orientation="horizontal"
              android:padding="8sp"
-             android:background="@color/verdeclaro"
+             android:background="@color/verdemasclaro"
              android:weightSum="2">
              <LinearLayout
                  android:layout_width="match_parent"

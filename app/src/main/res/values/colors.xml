@@ -4,11 +4,13 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="blanco">#ffffff</color>
-    <color name="azuloscuro">#0e07de</color>
+    <color name="azuloscuro">#0702ab</color>
     <color name="naranjaclaro">#ff9430</color>
     <color name="azulclaro">#617bfa</color>
     <color name="verdeclaro">#5ffa69</color>
     <color name="naranja">#f95801</color>
     <color name="verde">#029b0c</color>
-
+    <color name="verdemasclaro">#73fa6f</color>
+    <color name="naranjamasclaro">#fab27b</color>
+    <color name="azulmasclaro">#b0b2f7</color>
 </resources>
