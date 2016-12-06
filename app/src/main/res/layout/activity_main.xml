@@ -52,11 +52,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Mi numero: 76724265"
-                android:textColor="@color/blanco"/>
+                android:textColor="@color/blanco"
+                android:textSize="16sp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Bs. 15.22"
+                android:text="Bs. 17.16"
                 android:textSize="30sp"
                 android:textColor="@color/blanco"/>
             <TextView
@@ -129,7 +130,7 @@
                android:layout_weight="1"
                android:padding="8sp"
                android:gravity="right"
-               android:textSize="19sp"
+               android:textSize="17sp"
                android:layout_gravity="center_vertical"/>
         </LinearLayout>
         <LinearLayout
@@ -158,13 +159,13 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="11,25 MB"
+                android:text="101,25 MB"
                 android:gravity="right"
                 android:padding="8sp"
                 android:layout_gravity="center_vertical"
                 android:textColor="@color/naranja"
                 android:layout_weight="1"
-                android:textSize="20sp"/>
+                android:textSize="21sp"/>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -199,7 +200,7 @@
                 android:text="Comprar Mas"
                 android:layout_weight="1"
                 android:padding="8sp"
-                android:textSize="19sp"
+                android:textSize="17sp"
                 android:layout_gravity="center_vertical"
                 android:gravity="right"
                 android:textColor="@color/azuloscuro"/>
@@ -231,11 +232,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="1018 Seg"
+                android:text="256 Seg"
                 android:layout_weight="1"
                 android:gravity="right"
                 android:padding="8sp"
-                android:textSize="20sp"
+                android:textSize="21sp"
                 android:layout_gravity="center_vertical"
                 android:textColor="@color/azuloscuro"/>
         </LinearLayout>
@@ -274,7 +275,7 @@
                  android:textColor="@color/verde"
                  android:layout_weight="1"
                  android:padding="8sp"
-                 android:textSize="19sp"
+                 android:textSize="17sp"
                  android:gravity="right"/>
          </LinearLayout>
          <LinearLayout
@@ -303,13 +304,13 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="4 sms"
+                android:text="10 sms"
                 android:padding="8sp"
                 android:layout_gravity="center_vertical"
                 android:textColor="@color/verde"
                 android:layout_weight="1"
                 android:gravity="right"
-                android:textSize="20sp"/>
+                android:textSize="21sp"/>
         </LinearLayout>
 
     </LinearLayout>
