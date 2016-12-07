@@ -1,4 +1,4 @@
-StudyJam_tare_1 
+StudyJam_tarea_1
 =======================
 
 * Study Jam II 2016
